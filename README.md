@@ -218,6 +218,9 @@ Son propuestas, no funcionalidades ya implementadas. Tras cada versión comproba
 
 La entrega inicial se revisa en local para rutas relativas, fragmentos, recursos y sintaxis JavaScript. El despliegue en tu cuenta GitHub se comprueba después de publicar.
 
+## Trabajo realizado
+https://aancosa08.github.io/mi-weblab/
+
 ## Fuentes y ampliación
 
 - [Documentación de Git](https://git-scm.com/docs): referencia de comandos.
